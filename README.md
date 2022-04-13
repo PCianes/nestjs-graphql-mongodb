@@ -74,6 +74,8 @@ Nest is [MIT licensed](LICENSE).
 
 # Custom development
 
+[Graphql Local Playground](http://localhost:3000/graphql)
+
 Quick local MONGO Database development
 
 ```bash
