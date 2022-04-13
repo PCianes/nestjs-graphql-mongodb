@@ -93,3 +93,9 @@ New Lesson module
 ```bash
 nest g module lesson
 ```
+
+Database
+
+```bash
+npm i typeorm @nestjs/typeorm mongodb
+```
