@@ -79,3 +79,15 @@ Quick local MONGO Database development
 ```bash
 docker run --name mongo -p 27017:27017 -d mongo
 ```
+
+GraphQL modules
+
+```bash
+npm install graphql graphql-tools apollo-server-express @nestjs/apollo @nestjs/graphql
+```
+
+New Lesson module
+
+```bash
+nest g module lesson
+```
