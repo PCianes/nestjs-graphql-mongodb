@@ -98,4 +98,6 @@ Database
 
 ```bash
 npm i typeorm @nestjs/typeorm mongodb
+npm i -D @types/mongodb
+npm i uuid
 ```
